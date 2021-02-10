@@ -1,4 +1,8 @@
 A fejlesztés elkezdődött
 Folytatóddik a fejlesztés
+<<<<<<< HEAD
 csinosítjuk a projektet
 Fejlesztés befejezése
+=======
+Fejlesztés befejezése, csak a lényegre koncentrálva, garantáltan jó
+>>>>>>> 1440f80f5b2279709610f497730b98dd316eaab9

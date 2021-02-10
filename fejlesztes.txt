@@ -1,2 +1,3 @@
 A fejlesztés elkezdődött
 Folytatóddik a fejlesztés
+Fejlesztés befejezése

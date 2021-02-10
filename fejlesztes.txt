@@ -1,2 +1,4 @@
 A fejlesztés elkezdődött
 Folytatóddik a fejlesztés
+csinosítjuk a projektet
+Fejlesztés befejezése
